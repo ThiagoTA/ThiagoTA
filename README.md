@@ -8,8 +8,8 @@
 ### - Stats 🎲
 <div>
   <a href="https://github.com/ThiagoTA" >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoTA&show_icons=true&theme=dark" />
-  <img wi height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoTA&layout=compact&langs_count=16&theme=dark" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagoTA&show_icons=true&theme=dark" />
+  <img wi height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoTA&layout=compact&langs_count=16&theme=dark" />
   </a>
 </div>
 <div style="display: inline_block"><br>
