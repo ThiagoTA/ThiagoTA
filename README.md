@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/thiago-teixeira-almeida/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:thiago.teixeirapf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-[snake animation](https://github.com/thiagota/thiagota/blob/output/github-contribution-grid-snake.svg)
+[snake animation](https://github.com/ThiagoTa/ThiagoTa/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
