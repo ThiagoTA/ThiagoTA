@@ -1,7 +1,7 @@
 ## - Hello! My name is Thiago 👋
 
 - 🔭 Front-end and Back-end;
-- 🌱 Studying PHP e C#;
+- 🌱 Studying ReactJS, React Native, NodeJS and C#;
 - 💬 I like to learn new languages.
 -----------------------------------------
 
