@@ -1,7 +1,7 @@
 ## - Hello! My name is Thiago 👋
 
 - 🔭 Full-Stack;
-- 🌱 Studying Java, ReactJS, React Native, NodeJS and C#;
+- 🌱 Studying Java, React Native, NodeJS and C#;
 - 💬 I like to learn new languages.
 -----------------------------------------
 
