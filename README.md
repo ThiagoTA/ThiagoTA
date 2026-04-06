@@ -1,25 +1,17 @@
 ## - Hello! My name is Thiago 👋
 
-- 🔭 Full-Stack;
-- 🌱 Studying Java, React Native, NodeJS and C#;
-- 💬 I like to learn new languages.
+- 🔭 Desenvolverdor Mobile;
+- 🌱 Kotlin, Kotlin Multiplatform, Android, Swift, Flutter e React Native;
+- 💬 Sempre procurando aprender mais.
 -----------------------------------------
 
 ### - Stats 🎲
-<div>
-  <a href="https://github.com/ThiagoTA" >
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagoTA&show_icons=true&theme=dark" />
-  <img wi height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoTA&layout=compact&langs_count=16&theme=dark" />
-  </a>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Thiago-KOTLIN" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img align="center" alt="Thiago-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-   <img align="center" alt="Thiago-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img align="center" alt="Thiago-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Thiago-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Thiago-SWIFT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-  <img align="center" alt="Thiago-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 </div>
 
 ## Social 👤
